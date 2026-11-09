@@ -14,7 +14,8 @@ I'm a musician and music educator with 20+ years of experience as a band directo
 - Lots of small projects for learning purposes
 - Command line applications in C and Python (grep clone, ls clone with file tagging, and other silly projects for fun)
 - A TUI written in Python/Textual for personal organization    
-- Developing and maintaining a Django project for managing my middle school band program. It's highly customized to fit my program, and built with lots of AI assistance. 
+- Developing and maintaining a Django project for managing my middle school band program. It's highly customized to fit my program, and built with lots of AI assistance.
+- A web-based LilyPond editor and document builder
 
 ### 🌱 I’m currently using/learning ...
 
